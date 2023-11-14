@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(149, 0, 255);
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+p {
+    color:rgb(0, 255, 204)
+
+}
+h1 {
+    color: chartreuse;
+}
+.btn {
+    color: rgb(0, 251, 255);
+    background-color: rgb(30, 0, 255);
+}
